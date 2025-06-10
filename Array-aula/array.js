@@ -1,0 +1,1 @@
+let frutas = ["Banana", "Maça", "Laranja"];
